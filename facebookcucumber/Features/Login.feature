@@ -1,4 +1,3 @@
-#Author : Dhananjay K
 Feature: User wants to Login Functionality
 
   @SanityTest
